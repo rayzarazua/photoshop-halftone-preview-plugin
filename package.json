@@ -1,0 +1,21 @@
+{
+  "name": "photoshop-halftone-preview-plugin",
+  "version": "1.0.0",
+  "description": "Plugin UXP para Photoshop que permite previsualizar el filtro halftone en tiempo real con parámetros ajustables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photoshop",
+    "plugin",
+    "uxp",
+    "halftone",
+    "preview",
+    "filter",
+    "grayscale",
+    "levels"
+  ],
+  "author": "rayzarazua",
+  "license": "MIT"
+}
